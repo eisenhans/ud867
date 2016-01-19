@@ -19,4 +19,9 @@ solution file into this one.
 
 */
 
+apply plugin: 'java'
+apply plugin: 'application'
+
 //apply from: "solution.gradle"
+
+mainClassName = "com.udacity.gradle.JokeTeller"

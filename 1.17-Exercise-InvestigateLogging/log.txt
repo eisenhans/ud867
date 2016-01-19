@@ -1,0 +1,291 @@
+10:52:58.101 [DEBUG] [org.gradle.internal.nativeintegration.services.NativeServices] Native-platform posix files is not available.  Continuing with fallback.
+10:52:58.506 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Software Loopback Interface 1
+10:52:58.510 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? true
+10:52:58.511 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.512 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback address /127.0.0.1
+10:52:58.512 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback address /0:0:0:0:0:0:0:1
+10:52:58.513 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Software Loopback Interface 1
+10:52:58.513 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft Kernel Debug Network Adapter
+10:52:58.515 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.516 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.517 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Microsoft Kernel Debug Network Adapter
+10:52:58.517 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Intel(R) Centrino(R) Advanced-N 6235
+10:52:58.518 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.520 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.520 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote address /192.168.0.116
+10:52:58.520 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote address /fe80:0:0:0:c1d6:38bc:7965:4699%wlan0
+10:52:58.521 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote multicast interface Intel(R) Centrino(R) Advanced-N 6235
+10:52:58.521 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Teredo Tunneling Pseudo-Interface
+10:52:58.522 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.524 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? false
+10:52:58.524 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote address /2001:0:5ef5:79fb:2cb3:187f:3f57:ff8b
+10:52:58.524 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote address /fe80:0:0:0:2cb3:187f:3f57:ff8b%net0
+10:52:58.524 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter
+10:52:58.526 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.527 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.527 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote address /fe80:0:0:0:9120:32e3:a6b:f18%wlan1
+10:52:58.528 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote multicast interface Microsoft Wi-Fi Direct Virtual Adapter
+10:52:58.528 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
+10:52:58.529 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.531 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.531 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote address /fe80:0:0:0:7cb4:2fc9:12fa:612f%eth1
+10:52:58.531 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote multicast interface Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)
+10:52:58.531 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Bluetooth Device (RFCOMM Protocol TDI)
+10:52:58.533 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.534 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.534 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Bluetooth Device (RFCOMM Protocol TDI)
+10:52:58.535 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Bluetooth Device (Personal Area Network)
+10:52:58.536 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.537 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.537 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote address /fe80:0:0:0:51c2:66f8:f956:21ab%eth2
+10:52:58.538 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote multicast interface Bluetooth Device (Personal Area Network)
+10:52:58.538 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Juniper Network Connect Virtual Adapter
+10:52:58.539 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.540 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.541 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote address /fe80:0:0:0:9506:745f:49cd:21de%eth3
+10:52:58.541 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote multicast interface Juniper Network Connect Virtual Adapter
+10:52:58.541 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft ISATAP Adapter #6
+10:52:58.542 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.544 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.544 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Microsoft ISATAP Adapter #6
+10:52:58.544 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft ISATAP Adapter
+10:52:58.546 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.547 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.547 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Microsoft ISATAP Adapter
+10:52:58.548 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft ISATAP Adapter #2
+10:52:58.549 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.550 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? false
+10:52:58.550 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding remote address /fe80:0:0:0:0:5efe:c0a8:74%net4
+10:52:58.551 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Juniper Network Connect Virtual Adapter-WFP Native MAC Layer LightWeight Filter-0000
+10:52:58.552 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.553 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.553 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Juniper Network Connect Virtual Adapter-WFP Native MAC Layer LightWeight Filter-0000
+10:52:58.554 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Juniper Network Connect Virtual Adapter-QoS Packet Scheduler-0000
+10:52:58.555 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.556 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.556 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Juniper Network Connect Virtual Adapter-QoS Packet Scheduler-0000
+10:52:58.557 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Juniper Network Connect Virtual Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000
+10:52:58.558 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.559 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.559 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Juniper Network Connect Virtual Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000
+10:52:58.559 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)-WFP Native MAC Layer LightWeight Filter-0000
+10:52:58.561 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.563 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.563 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)-WFP Native MAC Layer LightWeight Filter-0000
+10:52:58.565 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)-QoS Packet Scheduler-0000
+10:52:58.566 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.567 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.567 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)-QoS Packet Scheduler-0000
+10:52:58.567 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)-WFP 802.3 MAC Layer LightWeight Filter-0000
+10:52:58.568 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.570 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.570 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Qualcomm Atheros AR8151 PCI-E Gigabit Ethernet Controller (NDIS 6.30)-WFP 802.3 MAC Layer LightWeight Filter-0000
+10:52:58.570 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Intel(R) Centrino(R) Advanced-N 6235-WFP Native MAC Layer LightWeight Filter-0000
+10:52:58.571 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.573 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.573 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Intel(R) Centrino(R) Advanced-N 6235-WFP Native MAC Layer LightWeight Filter-0000
+10:52:58.573 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Intel(R) Centrino(R) Advanced-N 6235-Virtual WiFi Filter Driver-0000
+10:52:58.574 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.575 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.575 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Intel(R) Centrino(R) Advanced-N 6235-Virtual WiFi Filter Driver-0000
+10:52:58.576 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Intel(R) Centrino(R) Advanced-N 6235-Native WiFi Filter Driver-0000
+10:52:58.577 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.578 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.578 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Intel(R) Centrino(R) Advanced-N 6235-Native WiFi Filter Driver-0000
+10:52:58.578 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Intel(R) Centrino(R) Advanced-N 6235-QoS Packet Scheduler-0000
+10:52:58.580 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.581 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.581 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Intel(R) Centrino(R) Advanced-N 6235-QoS Packet Scheduler-0000
+10:52:58.581 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Intel(R) Centrino(R) Advanced-N 6235-WFP 802.3 MAC Layer LightWeight Filter-0000
+10:52:58.582 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.583 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.584 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Intel(R) Centrino(R) Advanced-N 6235-WFP 802.3 MAC Layer LightWeight Filter-0000
+10:52:58.584 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter-WFP Native MAC Layer LightWeight Filter-0000
+10:52:58.585 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.586 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.586 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Microsoft Wi-Fi Direct Virtual Adapter-WFP Native MAC Layer LightWeight Filter-0000
+10:52:58.586 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter-Native WiFi Filter Driver-0000
+10:52:58.588 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.589 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.589 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Microsoft Wi-Fi Direct Virtual Adapter-Native WiFi Filter Driver-0000
+10:52:58.589 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter-QoS Packet Scheduler-0000
+10:52:58.590 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.591 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.592 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Microsoft Wi-Fi Direct Virtual Adapter-QoS Packet Scheduler-0000
+10:52:58.592 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft Wi-Fi Direct Virtual Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000
+10:52:58.593 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.594 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.594 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Microsoft Wi-Fi Direct Virtual Adapter-WFP 802.3 MAC Layer LightWeight Filter-0000
+10:52:58.594 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding IP addresses for network interface Microsoft ISATAP Adapter #3
+10:52:58.596 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a loopback interface? false
+10:52:58.597 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Is this a multicast interface? true
+10:52:58.597 [DEBUG] [org.gradle.messaging.remote.internal.inet.InetAddressFactory] Adding loopback multicast interface Microsoft ISATAP Adapter #3
+10:52:58.609 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on daemon addresses registry.
+10:52:58.610 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired.
+10:52:58.629 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on daemon addresses registry.
+10:52:58.641 [DEBUG] [org.gradle.messaging.remote.internal.inet.TcpOutgoingConnector] Attempting to connect to [c0937c14-90c7-41af-97a2-7ee2b72441bb port:58326, addresses:[/127.0.0.1, /0:0:0:0:0:0:0:1]].
+10:52:58.641 [DEBUG] [org.gradle.messaging.remote.internal.inet.TcpOutgoingConnector] Trying to connect to address /127.0.0.1.
+10:52:58.644 [DEBUG] [org.gradle.messaging.remote.internal.inet.TcpOutgoingConnector] Connected to address /127.0.0.1:58326.
+10:52:58.663 [INFO] [org.gradle.launcher.daemon.client.DaemonClient] Connected to daemon DaemonInfo{pid=3964, address=[c0937c14-90c7-41af-97a2-7ee2b72441bb port:58326, addresses:[/127.0.0.1, /0:0:0:0:0:0:0:1]], idle=true, context=DefaultDaemonContext[uid=782313bb-a42d-4edf-a625-197959c43ee3,javaHome=C:\Program Files\Java\jdk1.8.0,daemonRegistryDir=C:\Users\Markus\.gradle\daemon,pid=3964,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=windows-1252,-Duser.country=DE,-Duser.language=de,-Duser.variant]}. Dispatching request Build{id=12b145c6-67a3-408c-a3fd-9c2261aeffe5.1, currentDir=D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging}.
+10:52:58.664 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClientConnection] thread 1: dispatching class org.gradle.launcher.daemon.protocol.Build
+10:52:58.691 [INFO] [org.gradle.launcher.daemon.client.DaemonClient] Received result org.gradle.launcher.daemon.protocol.BuildStarted@1a75e76a from daemon DaemonInfo{pid=3964, address=[c0937c14-90c7-41af-97a2-7ee2b72441bb port:58326, addresses:[/127.0.0.1, /0:0:0:0:0:0:0:1]], idle=true, context=DefaultDaemonContext[uid=782313bb-a42d-4edf-a625-197959c43ee3,javaHome=C:\Program Files\Java\jdk1.8.0,daemonRegistryDir=C:\Users\Markus\.gradle\daemon,pid=3964,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=windows-1252,-Duser.country=DE,-Duser.language=de,-Duser.variant]} (build should be starting).
+10:52:58.690 [INFO] [org.gradle.launcher.daemon.server.exec.LogToClient] The client will now receive all logging from the daemon (pid: 3964). The daemon log file: C:\Users\Markus\.gradle\daemon\2.10\daemon-3964.out.log
+10:52:58.690 [INFO] [org.gradle.launcher.daemon.server.health.DaemonHealthTracker] Starting 19th build in daemon [uptime: 18 mins 51.026 secs, performance: 80%, memory: 9% of 954,7 MB]
+10:52:58.691 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] The daemon has started executing the build.
+10:52:58.691 [INFO] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] Executing build with daemon context: DefaultDaemonContext[uid=782313bb-a42d-4edf-a625-197959c43ee3,javaHome=C:\Program Files\Java\jdk1.8.0,daemonRegistryDir=C:\Users\Markus\.gradle\daemon,pid=3964,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=windows-1252,-Duser.country=DE,-Duser.language=de,-Duser.variant]
+10:52:58.697 [INFO] [org.gradle.BuildLogger] Starting Build
+10:52:58.697 [DEBUG] [org.gradle.BuildLogger] Gradle user home: C:\Users\Markus\.gradle
+10:52:58.697 [DEBUG] [org.gradle.BuildLogger] Current dir: D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging
+10:52:58.697 [DEBUG] [org.gradle.BuildLogger] Settings file: null
+10:52:58.698 [DEBUG] [org.gradle.BuildLogger] Build file: null
+10:52:58.704 [DEBUG] [org.gradle.initialization.buildsrc.BuildSourceBuilder] Starting to build the build sources.
+10:52:58.705 [DEBUG] [org.gradle.initialization.buildsrc.BuildSourceBuilder] Gradle source dir does not exist. We leave.
+10:52:58.705 [DEBUG] [org.gradle.initialization.DefaultGradlePropertiesLoader] Found env project properties: []
+10:52:58.705 [DEBUG] [org.gradle.initialization.DefaultGradlePropertiesLoader] Found system project properties: []
+10:52:58.706 [DEBUG] [org.gradle.initialization.ScriptEvaluatingSettingsProcessor] Timing: Processing settings took: 0.001 secs
+10:52:58.706 [INFO] [org.gradle.BuildLogger] Settings evaluated using settings file 'D:\master\settings.gradle'.
+10:52:58.707 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks' from state Registered to Created
+10:52:58.707 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks' rule action Project.<init>.tasks()
+10:52:58.707 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks using Project.<init>.tasks()
+10:52:58.708 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks' to state Discovered.
+10:52:58.708 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks' rule action Project.<init>.tasks()
+10:52:58.708 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks using Project.<init>.tasks()
+10:52:58.708 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks' to state Created.
+10:52:58.708 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'serviceRegistry' from state Registered to Discovered
+10:52:58.708 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'serviceRegistry' rule action Project.<init>.serviceRegistry()
+10:52:58.708 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating serviceRegistry using Project.<init>.serviceRegistry()
+10:52:58.709 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'serviceRegistry' to state Discovered.
+10:52:58.709 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'taskFactory' from state Registered to Discovered
+10:52:58.709 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'taskFactory' rule action AbstractProject.BasicServicesRules#taskFactory
+10:52:58.710 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating taskFactory using AbstractProject.BasicServicesRules#taskFactory
+10:52:58.710 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'taskFactory' to state Discovered.
+10:52:58.710 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'typeConverter' from state Registered to Discovered
+10:52:58.710 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'typeConverter' rule action AbstractProject.BasicServicesRules#typeConverter
+10:52:58.711 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating typeConverter using AbstractProject.BasicServicesRules#typeConverter
+10:52:58.711 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'typeConverter' to state Discovered.
+10:52:58.711 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'nodeInitializerRegistry' from state Registered to Discovered
+10:52:58.711 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'nodeInitializerRegistry' rule action AbstractProject.BasicServicesRules#nodeInitializerRegistry
+10:52:58.711 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating nodeInitializerRegistry using AbstractProject.BasicServicesRules#nodeInitializerRegistry
+10:52:58.712 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'nodeInitializerRegistry' to state Discovered.
+10:52:58.712 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'proxyFactory' from state Registered to Discovered
+10:52:58.712 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'proxyFactory' rule action AbstractProject.BasicServicesRules#proxyFactory
+10:52:58.712 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating proxyFactory using AbstractProject.BasicServicesRules#proxyFactory
+10:52:58.713 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'proxyFactory' to state Discovered.
+10:52:58.713 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'schemaStore' from state Registered to Discovered
+10:52:58.713 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'schemaStore' rule action AbstractProject.BasicServicesRules#schemaStore
+10:52:58.713 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating schemaStore using AbstractProject.BasicServicesRules#schemaStore
+10:52:58.713 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'schemaStore' to state Discovered.
+10:52:58.714 [DEBUG] [org.gradle.initialization.ProjectPropertySettingBuildLoader] Looking for project properties from: D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\gradle.properties
+10:52:58.714 [DEBUG] [org.gradle.initialization.ProjectPropertySettingBuildLoader] project property file does not exists. We continue!
+10:52:58.715 [INFO] [org.gradle.BuildLogger] Projects loaded. Root project using build file 'D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\build.gradle'.
+10:52:58.715 [INFO] [org.gradle.BuildLogger] Included projects: [root project '1.17-Exercise-InvestigateLogging']
+10:52:58.719 [INFO] [org.gradle.configuration.project.BuildScriptProcessor] Evaluating root project '1.17-Exercise-InvestigateLogging' using build file 'D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\build.gradle'.
+10:52:58.721 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on cp_proj class cache for build file 'D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\build.gradle' (C:\Users\Markus\.gradle\caches\2.10\scripts\build_15ctgcdvjvqdordbkeqo01tm1\cp_proj).
+10:52:58.722 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired.
+10:52:58.723 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Waiting to acquire shared lock on proj class cache for build file 'D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\build.gradle' (C:\Users\Markus\.gradle\caches\2.10\scripts\build_15ctgcdvjvqdordbkeqo01tm1\proj).
+10:52:58.723 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Lock acquired.
+10:52:58.725 [DEBUG] [org.gradle.configuration.project.BuildScriptProcessor] Timing: Running the build script took 0.006 secs
+10:52:58.726 [INFO] [org.gradle.BuildLogger] All projects evaluated.
+10:52:58.726 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks' from state Created to SelfClosed
+10:52:58.727 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks' to state DefaultsApplied.
+10:52:58.727 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks' to state Initialized.
+10:52:58.727 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks' to state Mutated.
+10:52:58.727 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks' to state Finalized.
+10:52:58.727 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks' to state SelfClosed.
+10:52:58.727 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' from state Registered to Discovered
+10:52:58.728 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.hello' rule action Project.<init>.tasks.hello()
+10:52:58.728 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.hello using Project.<init>.tasks.hello()
+10:52:58.728 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' to state Discovered.
+10:52:58.728 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.hello' rule action Project.<init>.tasks.hello()
+10:52:58.729 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.hello using Project.<init>.tasks.hello()
+10:52:58.729 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' to state Created.
+10:52:58.729 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' to state DefaultsApplied.
+10:52:58.729 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.hello' rule action copyToTaskContainer
+10:52:58.729 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.hello using copyToTaskContainer
+10:52:58.730 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' to state Initialized.
+10:52:58.730 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' to state Mutated.
+10:52:58.730 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' to state Finalized.
+10:52:58.730 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' to state SelfClosed.
+10:52:58.730 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' to state GraphClosed.
+10:52:58.730 [INFO] [org.gradle.execution.TaskNameResolvingBuildConfigurationAction] Selected primary task 'hello' from project :
+10:52:58.731 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.hello' from state GraphClosed to GraphClosed
+10:52:58.731 [DEBUG] [org.gradle.execution.taskgraph.DefaultTaskGraphExecuter] Timing: Creating the DAG took 0.0 secs
+10:52:58.731 [INFO] [org.gradle.BuildLogger] Tasks to be executed: [task ':hello']
+10:52:58.732 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'buildDir' rule action Project.<init>.buildDir()
+10:52:58.732 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating buildDir using Project.<init>.buildDir()
+10:52:58.732 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'buildDir' to state Discovered.
+10:52:58.733 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'extensionContainer' rule action Project.<init>.extensionContainer()
+10:52:58.733 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating extensionContainer using Project.<init>.extensionContainer()
+10:52:58.733 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'extensionContainer' to state Discovered.
+10:52:58.733 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'projectIdentifier' rule action Project.<init>.projectIdentifier()
+10:52:58.733 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating projectIdentifier using Project.<init>.projectIdentifier()
+10:52:58.733 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'projectIdentifier' to state Discovered.
+10:52:58.734 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.buildEnvironment' rule action tasks.addPlaceholderAction(buildEnvironment)
+10:52:58.734 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.buildEnvironment using tasks.addPlaceholderAction(buildEnvironment)
+10:52:58.734 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.buildEnvironment' to state Discovered.
+10:52:58.734 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.components' rule action tasks.addPlaceholderAction(components)
+10:52:58.735 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.components using tasks.addPlaceholderAction(components)
+10:52:58.735 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.components' to state Discovered.
+10:52:58.735 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.dependencies' rule action tasks.addPlaceholderAction(dependencies)
+10:52:58.735 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.dependencies using tasks.addPlaceholderAction(dependencies)
+10:52:58.735 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.dependencies' to state Discovered.
+10:52:58.736 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.dependencyInsight' rule action tasks.addPlaceholderAction(dependencyInsight)
+10:52:58.736 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.dependencyInsight using tasks.addPlaceholderAction(dependencyInsight)
+10:52:58.736 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.dependencyInsight' to state Discovered.
+10:52:58.736 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.derpy' rule action Project.<init>.tasks.derpy()
+10:52:58.736 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.derpy using Project.<init>.tasks.derpy()
+10:52:58.737 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.derpy' to state Discovered.
+10:52:58.737 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.help' rule action tasks.addPlaceholderAction(help)
+10:52:58.737 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.help using tasks.addPlaceholderAction(help)
+10:52:58.737 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.help' to state Discovered.
+10:52:58.737 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.init' rule action tasks.addPlaceholderAction(init)
+10:52:58.738 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.init using tasks.addPlaceholderAction(init)
+10:52:58.738 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.init' to state Discovered.
+10:52:58.738 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.model' rule action tasks.addPlaceholderAction(model)
+10:52:58.738 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.model using tasks.addPlaceholderAction(model)
+10:52:58.738 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.model' to state Discovered.
+10:52:58.738 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.projects' rule action tasks.addPlaceholderAction(projects)
+10:52:58.739 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.projects using tasks.addPlaceholderAction(projects)
+10:52:58.739 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.projects' to state Discovered.
+10:52:58.739 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.properties' rule action tasks.addPlaceholderAction(properties)
+10:52:58.739 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.properties using tasks.addPlaceholderAction(properties)
+10:52:58.739 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.properties' to state Discovered.
+10:52:58.739 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.tasks' rule action tasks.addPlaceholderAction(tasks)
+10:52:58.740 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.tasks using tasks.addPlaceholderAction(tasks)
+10:52:58.740 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.tasks' to state Discovered.
+10:52:58.740 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Running model element 'tasks.wrapper' rule action tasks.addPlaceholderAction(wrapper)
+10:52:58.740 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Mutating tasks.wrapper using tasks.addPlaceholderAction(wrapper)
+10:52:58.740 [DEBUG] [org.gradle.model.internal.registry.DefaultModelRegistry] Transitioning model element 'tasks.wrapper' to state Discovered.
+10:52:58.741 [INFO] [org.gradle.api.internal.changedetection.state.InMemoryTaskArtifactCache] In-memory cache of D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\.gradle\2.10\taskArtifacts\fileHashes.bin: Size{0}, CacheStats{hitCount=0, missCount=0, loadSuccessCount=0, loadExceptionCount=0, totalLoadTime=0, evictionCount=0}
+10:52:58.741 [INFO] [org.gradle.api.internal.changedetection.state.InMemoryTaskArtifactCache] In-memory cache of D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\.gradle\2.10\taskArtifacts\outputFileStates.bin: Size{0}, CacheStats{hitCount=0, missCount=0, loadSuccessCount=0, loadExceptionCount=0, totalLoadTime=0, evictionCount=0}
+10:52:58.741 [INFO] [org.gradle.api.internal.changedetection.state.InMemoryTaskArtifactCache] In-memory cache of D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\.gradle\2.10\taskArtifacts\fileSnapshots.bin: Size{0}, CacheStats{hitCount=0, missCount=0, loadSuccessCount=0, loadExceptionCount=0, totalLoadTime=0, evictionCount=0}
+10:52:58.742 [INFO] [org.gradle.api.internal.changedetection.state.InMemoryTaskArtifactCache] In-memory cache of D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\.gradle\2.10\taskArtifacts\taskArtifacts.bin: Size{0}, CacheStats{hitCount=0, missCount=0, loadSuccessCount=0, loadExceptionCount=0, totalLoadTime=0, evictionCount=0}
+10:52:58.742 [INFO] [org.gradle.execution.taskgraph.AbstractTaskPlanExecutor] :hello (Thread[Daemon worker Thread 3,5,main]) started.
+10:52:58.742 [LIFECYCLE] [class org.gradle.TaskExecutionLogger] :hello
+10:52:58.742 [DEBUG] [org.gradle.api.internal.tasks.execution.ExecuteAtMostOnceTaskExecuter] Starting to execute task ':hello'
+10:52:58.742 [DEBUG] [org.gradle.api.internal.tasks.execution.SkipUpToDateTaskExecuter] Determining if task ':hello' is up-to-date
+10:52:58.743 [INFO] [org.gradle.api.internal.tasks.execution.SkipUpToDateTaskExecuter] Executing task ':hello' (up-to-date check took 0.001 secs) due to:
+  Task has not declared any outputs.
+10:52:58.743 [DEBUG] [org.gradle.api.internal.tasks.execution.ExecuteActionsTaskExecuter] Executing actions for task ':hello'.
+10:52:58.743 [INFO] [org.gradle.api.Task] starting action
+10:52:58.743 [QUIET] [system.out] Hello World
+10:52:58.743 [DEBUG] [org.gradle.api.Task] Catch me if you can
+10:52:58.744 [INFO] [org.gradle.api.Task] finished action
+10:52:58.744 [DEBUG] [org.gradle.api.internal.tasks.execution.ExecuteAtMostOnceTaskExecuter] Finished executing task ':hello'
+10:52:58.744 [INFO] [org.gradle.execution.taskgraph.AbstractTaskPlanExecutor] :hello (Thread[Daemon worker Thread 3,5,main]) completed. Took 0.002 secs.
+10:52:58.744 [DEBUG] [org.gradle.execution.taskgraph.AbstractTaskPlanExecutor] Task worker [Thread[Daemon worker Thread 3,5,main]] finished, busy: 0.002 secs, idle: 0.0 secs
+10:52:58.744 [DEBUG] [org.gradle.execution.taskgraph.DefaultTaskGraphExecuter] Timing: Executing the DAG took 0.013 secs
+10:52:58.744 [LIFECYCLE] [org.gradle.BuildResultLogger] 
+10:52:58.745 [LIFECYCLE] [org.gradle.BuildResultLogger] BUILD SUCCESSFUL
+10:52:58.745 [LIFECYCLE] [org.gradle.BuildResultLogger] 
+10:52:58.745 [LIFECYCLE] [org.gradle.BuildResultLogger] Total time: 0.939 secs
+10:52:58.745 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on cp_proj class cache for build file 'D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\build.gradle' (C:\Users\Markus\.gradle\caches\2.10\scripts\build_15ctgcdvjvqdordbkeqo01tm1\cp_proj).
+10:52:58.745 [DEBUG] [org.gradle.cache.internal.DefaultFileLockManager] Releasing lock on proj class cache for build file 'D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\build.gradle' (C:\Users\Markus\.gradle\caches\2.10\scripts\build_15ctgcdvjvqdordbkeqo01tm1\proj).
+10:52:58.745 [DEBUG] [org.gradle.cache.internal.DefaultCacheAccess] Cache task history cache (D:\ml\code\android\ud867\1.17-Exercise-InvestigateLogging\.gradle\2.10\taskArtifacts) was closed 0 times.
+10:52:58.746 [DEBUG] [org.gradle.cache.internal.DefaultCacheAccess] Cache Plugin Resolution Cache (C:\Users\Markus\.gradle\caches\2.10\plugin-resolution) was closed 0 times.
+10:52:58.746 [DEBUG] [org.gradle.launcher.daemon.server.exec.ExecuteBuild] The daemon has finished executing the build.
+10:52:58.756 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClientInputForwarder] Dispatching close input message: org.gradle.launcher.daemon.protocol.CloseInput@7d219cd0
+10:52:58.756 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClientConnection] thread 13: dispatching class org.gradle.launcher.daemon.protocol.CloseInput
+10:52:58.757 [INFO] [org.gradle.launcher.daemon.client.DaemonClient] Received result Success[value=null] from daemon DaemonInfo{pid=3964, address=[c0937c14-90c7-41af-97a2-7ee2b72441bb port:58326, addresses:[/127.0.0.1, /0:0:0:0:0:0:0:1]], idle=true, context=DefaultDaemonContext[uid=782313bb-a42d-4edf-a625-197959c43ee3,javaHome=C:\Program Files\Java\jdk1.8.0,daemonRegistryDir=C:\Users\Markus\.gradle\daemon,pid=3964,idleTimeout=10800000,daemonOpts=-XX:MaxPermSize=256m,-XX:+HeapDumpOnOutOfMemoryError,-Xmx1024m,-Dfile.encoding=windows-1252,-Duser.country=DE,-Duser.language=de,-Duser.variant]} (build should be done).
+10:52:58.757 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClientConnection] thread 1: dispatching class org.gradle.launcher.daemon.protocol.Finished
+10:52:58.758 [DEBUG] [org.gradle.launcher.daemon.client.DaemonClientConnection] thread 1: connection stop

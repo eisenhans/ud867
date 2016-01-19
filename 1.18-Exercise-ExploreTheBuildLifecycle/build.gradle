@@ -20,6 +20,7 @@ task first {
     doLast {
         println 'First task: Action'
     }
+    println 'First task: end'
 }
 
 task second(dependsOn: first) {

@@ -1,0 +1,4 @@
+<resources>
+    <string name="toast_text">This is funny!</string>
+    <string name="toast2_text">This is even funnier!</string>
+</resources>

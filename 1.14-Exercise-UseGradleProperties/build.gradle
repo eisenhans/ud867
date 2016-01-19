@@ -15,9 +15,17 @@ via the command line so that the zip file is created in a folder "build2".
 4. Define an extra project property in your build script whose value determines
 the name of the zip file created by "bundleWeb". */
 
+
+ext {
+	webBase = "zipped"
+}
+
 task bundleWeb(type: Zip) {
-    baseName = 'web'
+    baseName = webBase
     destinationDir = file(webOutputDir)
 
     from 'src/web'
 }
+
+
+
