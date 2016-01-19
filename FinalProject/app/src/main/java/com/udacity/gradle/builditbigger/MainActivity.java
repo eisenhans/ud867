@@ -45,6 +45,8 @@ public class MainActivity extends ActionBarActivity {
     }
 
     public void tellJoke(View view) {
+        //new EndpointsAsyncTask().execute(new Pair<Context, String>(this, "Manfred"));
+
         Intent jokeIntent = new Intent(this, JokeDisplayActivity.class);
         jokeIntent.putExtra(JokeDisplayActivity.JOKE_KEY, jokeTeller.tellJoke());
         startActivity(jokeIntent);

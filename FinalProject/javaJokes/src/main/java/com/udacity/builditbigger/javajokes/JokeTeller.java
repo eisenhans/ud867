@@ -5,6 +5,9 @@ public class JokeTeller {
 	private int count;
 
 	public String tellJoke() {
-		return "This is joke " + ++count;
+		String joke = "This is joke " + ++count;
+		System.out.println("Telling joke: " + joke);
+
+		return joke;
 	}
 }
