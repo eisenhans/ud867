@@ -8,13 +8,18 @@ import com.udacity.gradle.builditbigger.backend.myApi.MyApi;
 
 class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
     private static MyApi myApiService = null;
-    private Context context;
+    private MainActivity mainActivity;
 
     @Override
     protected String doInBackground(Context... params) {
-        context = params[0];
+        mainActivity = (MainActivity) params[0];
         int rnd = (int) (100 * Math.random());
-        return "This is random joke " + rnd;
+        try {
+            Thread.sleep(2000);
+        } catch (InterruptedException e) {
+            e.printStackTrace();
+        }
+        return "This is joke " + rnd;
 //        if(myApiService == null) {  // Only do this once
 //            MyApi.Builder builder = new MyApi.Builder(AndroidHttp.newCompatibleTransport(),
 //                    new AndroidJsonFactory(), null)
@@ -44,6 +49,7 @@ class EndpointsAsyncTask extends AsyncTask<Context, Void, String> {
 
     @Override
     protected void onPostExecute(String result) {
-        Toast.makeText(context, result, Toast.LENGTH_LONG).show();
+        mainActivity.showProgressBar(false);
+        Toast.makeText(mainActivity, result, Toast.LENGTH_LONG).show();
     }
 }

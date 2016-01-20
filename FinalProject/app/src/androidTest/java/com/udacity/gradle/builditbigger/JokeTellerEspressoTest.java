@@ -2,7 +2,6 @@ package com.udacity.gradle.builditbigger;
 
 import android.support.test.rule.ActivityTestRule;
 import android.support.test.runner.AndroidJUnit4;
-import android.widget.Button;
 
 import org.junit.Before;
 import org.junit.Rule;
@@ -26,12 +25,10 @@ public class JokeTellerEspressoTest {
     public ActivityTestRule<MainActivity> activityRule = new ActivityTestRule<>(MainActivity.class);
 
     private MainActivity mainActivity;
-    private Button jokeButton;
 
     @Before
     public void before() {
         mainActivity = activityRule.getActivity();
-        jokeButton = (Button) mainActivity.findViewById(R.id.joke_button);
     }
 
     /**
