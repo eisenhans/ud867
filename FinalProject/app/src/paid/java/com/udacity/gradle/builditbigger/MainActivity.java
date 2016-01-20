@@ -7,19 +7,14 @@ import android.view.Menu;
 import android.view.MenuItem;
 import android.view.View;
 
-import com.udacity.builditbigger.javajokes.JokeTeller;
-
 
 public class MainActivity extends ActionBarActivity {
-
-    private JokeTeller jokeTeller = new JokeTeller();
 
     @Override
     protected void onCreate(Bundle savedInstanceState) {
         super.onCreate(savedInstanceState);
         setContentView(R.layout.activity_main);
     }
-
 
     @Override
     public boolean onCreateOptionsMenu(Menu menu) {
