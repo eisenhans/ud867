@@ -17,3 +17,27 @@ allprojects {
         jcenter()
     }
 }
+
+task runTests(dependsOn: ['startServer', 'executeTests', 'stopServer']) {
+    evaluationDependsOn ':jokeEndpoints'
+    project(':jokeEndpoints') {
+        appengine {
+            daemon true
+        }
+    }
+}
+
+task stopServer(dependsOn: ['executeTests', ':jokeEndpoints:appengineStop']) << {
+    println 'stopping server'
+}
+stopServer.mustRunAfter('executeTests')  
+
+task executeTests(dependsOn: ['startServer', ':app:connectedAndroidTest']) << {
+    println 'executing tests'
+}
+executeTests.mustRunAfter('startServer')    
+
+task startServer(dependsOn: ':jokeEndpoints:appengineRun') << {
+    println 'starting server'
+}
+
